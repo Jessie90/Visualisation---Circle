@@ -21,7 +21,7 @@ float interval = TWO_PI / segs;
 
 
 void setup() {
-  size(200, 200);
+  size(600, 600);
   background(127);
   smooth();
   ellipseMode(RADIUS);
